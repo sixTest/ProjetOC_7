@@ -15,7 +15,7 @@ class Action:
     def __init__(self, name, cost, perform):
         self.name = name
         self.cost = cost
-        self.perform = perform
+        self.perform = perform/100
 
     def __str__(self):
         return self.name + ' ' + str(self.cost) + ' ' + str(self.perform)
