@@ -1,4 +1,4 @@
-#Description du projet
+# Description du projet
 
 Ce projet est un problème d'optimisation combinatoire consistant à trouver la
 meilleure combinaison d'actions pour des jeux de données particuliers en utilisant
@@ -6,7 +6,7 @@ un algorithme de force brute pour le jeu de données dataset_0 et un algorithme
 optimisé pour les jeux de données dataset_1 et dataset_2 avec une contrainte de temps (moins de 1 seconde)
 et une contrainte de performance (les résultats de Sienna).
 
-##Lancement des scripts
+## Lancement des scripts
 * Ouvrez un invite de commande
 * Placez vous dans le dossier contenant les fichiers brute_force.py et optimized.py
 * Création de l'environnement virtuel : ```python -m venv env```
